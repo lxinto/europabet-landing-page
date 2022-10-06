@@ -52,43 +52,43 @@ export const cardInfo = [
 export const scrollerImages = [
     {
         id: 1,
-        img: "/thumb/aztecbonanza.jpg"
+        img: "https://chanz.cloud/cmscontent/images/5lionsmegaways-card_full-b4ae60e9.jpg"
     },
     {
         id: 2,
-        img: "/thumb/aztecgems.jpg"
+        img: "https://chanz.cloud/cmscontent/images/5lionsmegaways-card_full-b4ae60e9.jpg"
     },
     {
         id: 3,
-        img: "/thumb/bronco.jpg"
+        img: "https://chanz.cloud/cmscontent/images/5lionsmegaways-card_full-b4ae60e9.jpg"
     },
     {
         id: 4,
-        img: "/thumb/buffaloking.jpg"
+        img: "https://chanz.cloud/cmscontent/images/5lionsmegaways-card_full-b4ae60e9.jpg"
     },
     {
         id: 5,
-        img: "/thumb/chilliheat.jpg"
+        img: "https://chanz.cloud/cmscontent/images/5lionsmegaways-card_full-b4ae60e9.jpg"
     },
     {
         id: 6,
-        img: "/thumb/danceparty.jpg"
+        img: "https://chanz.cloud/cmscontent/images/5lionsmegaways-card_full-b4ae60e9.jpg"
     },
     {
         id: 7,
-        img: "/thumb/firestrike.jpg"
+        img: "https://chanz.cloud/cmscontent/images/5lionsmegaways-card_full-b4ae60e9.jpg"
     },
     {
         id: 8,
-        img: "/thumb/fruitparty.jpg"
+        img: "https://chanz.cloud/cmscontent/images/5lionsmegaways-card_full-b4ae60e9.jpg"
     },
     {
         id: 9,
-        img: "/thumb/hot-fiesta.jpg"
+        img: "https://chanz.cloud/cmscontent/images/5lionsmegaways-card_full-b4ae60e9.jpg"
     },
     {
         id: 10,
-        img: "/thumb/rhino.jpg"
+        img: "https://chanz.cloud/cmscontent/images/5lionsmegaways-card_full-b4ae60e9.jpg"
     },
 ]
 export const table1 = [
