@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/europabet-landing-page/static/css/main.1aedd60f.css",
-    "main.js": "/europabet-landing-page/static/js/main.92991890.js",
+    "main.js": "/europabet-landing-page/static/js/main.eb126286.js",
     "static/media/banner.jpg": "/europabet-landing-page/static/media/banner.084e1b68669726a06e64.jpg",
     "static/media/prize-ka.png": "/europabet-landing-page/static/media/prize-ka.fd1dcf8949a3c4869c32.png",
     "static/media/plus.png": "/europabet-landing-page/static/media/plus.5cf509cedf25672f1602.png",
     "static/media/multipliers-img.png": "/europabet-landing-page/static/media/multipliers-img.9357e8db36ca279a9375.png",
     "index.html": "/europabet-landing-page/index.html",
     "main.1aedd60f.css.map": "/europabet-landing-page/static/css/main.1aedd60f.css.map",
-    "main.92991890.js.map": "/europabet-landing-page/static/js/main.92991890.js.map"
+    "main.eb126286.js.map": "/europabet-landing-page/static/js/main.eb126286.js.map"
   },
   "entrypoints": [
     "static/css/main.1aedd60f.css",
-    "static/js/main.92991890.js"
+    "static/js/main.eb126286.js"
   ]
 }
